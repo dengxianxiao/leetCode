@@ -1,2 +1,2 @@
 # leetCode
-LeetCode algorithm pratice with JavaScript
+LeetCode algorithm pratice with JavaScript test

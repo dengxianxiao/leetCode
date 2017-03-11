@@ -15,5 +15,6 @@ var fizzBuzz = function(n) {
             result[i - 1] = i + '';
         }
     }
+    // console.log(12);
     return result;
 };
