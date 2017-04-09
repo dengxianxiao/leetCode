@@ -31,7 +31,7 @@ var hammingDistance = function(x, y) {
             arr.push(num % 2);
             num = parseInt(num / 2);
         }
-        return arr.reverse();
+        return arr;
     }
 
 };
