@@ -15,44 +15,30 @@
 
 ## 1. 双层循环相加，直到找到target
 
-    ```javascript
-    var twoSum1 = function(nums, target) {
-      for (let i = 0, len = nums.length; i < len; i++) {
-        for (let j = i + 1; j < len; j++) {
-          if (nums[i] + nums[j] === target) {
-            return [i, j]
-          }
-        }
+```js
+var twoSum1 = function(nums, target) {
+  for (let i = 0, len = nums.length; i < len; i++) {
+    for (let j = i + 1; j < len; j++) {
+      if (nums[i] + nums[j] === target) {
+        return [i, j]
       }
     }
-    ```
+  }
+}
+```
 
-## 2. 单层循环，使用indexOf判断数组中是否有另一个数，并且不是用一个
+## 2. 使用map存储键值对， 判断另一个数是否在map中
 
-    ```JavaScript
-    var twoSum2 = function(nums, target) {
-      for (let i in nums) {
-        let another = target - nums[i]
-        let j = nums.indexOf(another)
-        if (j !== -1 && j !== i) { // 找到另一个数并且不是本身
-          return [i, j]
-        }
-      }
+```js
+var twoSum3 = function(nums, target) {
+  let map = new Map()
+  for (let i in nums) {
+    let another = target - nums[i]
+    if (!map.has(another)) {
+      map.set(nums[i], i)
+    } else {
+      return [map.get(another), i]
     }
-    ```
-
-## 3. 使用map存储键值对， 判断另一个数是否在map中
-
-    ```JavaScript
-    var twoSum3 = function(nums, target) {
-      let map = new Map()
-      for (let i in nums) {
-        let another = target - nums[i]
-        if (!map.has(another)) {
-          map.set(nums[i], i)
-        } else {
-          return [map.get(another), i]
-        }
-      }
-    }
-    ```
+  }
+}
+```
