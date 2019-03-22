@@ -1,10 +1,50 @@
-# 一级标题
-## 二级标题
+# 题目
 
-> 引用
+给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的那 两个 整数，并返回他们的数组下标。
 
+你可以假设每种输入只会对应一个答案。但是，你不能重复利用这个数组中同样的元素。
+
+示例:
+
+给定 nums = [2, 7, 11, 15], target = 9
+
+因为 nums[0] + nums[1] = 2 + 7 = 9
+所以返回 [0, 1]
+
+[3, 3], target = 6
+
+## 1. 双层循环相加，直到找到target
+
+    ```javascript
+    var twoSum1 = function(nums, target) {
+      for (let i = 0, len = nums.length; i < len; i++) {
+        for (let j = i + 1; j < len; j++) {
+          if (nums[i] + nums[j] === target) {
+            return [i, j]
+          }
+        }
+      }
+    }
     ```
-    var twoSum = function(nums, target) {
+
+## 2. 单层循环，使用indexOf判断数组中是否有另一个数，并且不是用一个
+
+    ```JavaScript
+    var twoSum2 = function(nums, target) {
+      for (let i in nums) {
+        let another = target - nums[i]
+        let j = nums.indexOf(another)
+        if (j !== -1 && j !== i) { // 找到另一个数并且不是本身
+          return [i, j]
+        }
+      }
+    }
+    ```
+
+## 3. 使用map存储键值对， 判断另一个数是否在map中
+
+    ```JavaScript
+    var twoSum3 = function(nums, target) {
       let map = new Map()
       for (let i in nums) {
         let another = target - nums[i]
@@ -16,20 +56,3 @@
       }
     }
     ```
-
-_斜体_
-**粗体**
-
-- 第一项
-- 第二项
-- 第三项
-  
-1. 第一项
-2. 第二项
-3. 第三项
-
-***
-
-[dengxianxiao github](https://github.com/dengxianxiao)
-
-`ctrl+a`
