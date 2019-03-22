@@ -30,11 +30,12 @@ var twoSum1 = function(nums, target) {
 ## 2. 使用map存储键值对， 判断另一个数是否在map中
 
 ```js
-var twoSum3 = function(nums, target) {
+var twoSum2 = function(nums, target) {
   let map = new Map()
   for (let i in nums) {
     let another = target - nums[i]
     if (!map.has(another)) {
+      // 否定在前，只有一个数据不是，所以放前面
       map.set(nums[i], i)
     } else {
       return [map.get(another), i]
