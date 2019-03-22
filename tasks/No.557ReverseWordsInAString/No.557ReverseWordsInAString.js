@@ -14,7 +14,7 @@
  * @return {string}
  */
 var reverseWords = function(s) {
-  var arr = s.split(/\s+/);
-  var newArr = arr.map(obj => obj.split('').reverse().join(''));
-  return newArr.join(' ');
+  let arr = s.split(/\s+/)
+  let newArr = arr.map(obj => obj.split('').reverse().join(''))
+  return newArr.join(' ')
 };
