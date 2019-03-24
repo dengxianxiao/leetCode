@@ -2,6 +2,7 @@
 
 - [No.1 Two Sum](./tasks/No.1TwoSum/No.1TwoSum.md)
 - [No.2 Add Two Numbers](./tasks/No.2AddTwoNumbers/No.2AddTwoNumbers.md)
+- [No.3 Longest Substring Without Repeating Characters](./tasks/No.3LongestSubstringWithoutRepeatingCharacters/No.3LongestSubstringWithoutRepeatingCharacters.md)
 - [No.136 String Number](./tasks/No.136StringNumber/No.136StringNumber.js)
 - [No.292 Nim Game](./tasks/No.292NimGame/No.292NimGame.js)
 - [No.344 Reverse String](./tasks/No.344ReverseString/No.344ReverseString.js)
