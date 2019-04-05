@@ -21,3 +21,4 @@
 - [No.657 Judge Route Circle](./tasks/No.657JudgeRouteCircle/No.657JudgeRouteCircle.js)
 - [No.709 To Lower Case](./tasks/No.709ToLowerCase/No.709ToLowerCase.js)
 - [No.771 Jewels and Stones](./tasks/No.771JewelsandStones/No.771JewelsandStones.md)
+- [No.977 Squares of a Sorted Array](./tasks/No.977SquaresOfASortedArray/No.977SquaresOfASortedArray.md)
