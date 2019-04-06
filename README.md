@@ -5,6 +5,7 @@
 - [No.3 Longest Substring Without Repeating Characters](./tasks/No.3LongestSubstringWithoutRepeatingCharacters/No.3LongestSubstringWithoutRepeatingCharacters.md)
 - [No.4 Median of Two Sorted Arrays](./tasks/No.4MedianofTwoSortedArrays/No.4MedianofTwoSortedArrays.md)
 - [No.136 String Number](./tasks/No.136StringNumber/No.136StringNumber.js)
+- [No.237 Delete Node in a Linked List](./tasks/No.237DeleteNodeInALinkedList/No.237DeleteNodeInALinkedList.js)
 - [No.292 Nim Game](./tasks/No.292NimGame/No.292NimGame.js)
 - [No.344 Reverse String](./tasks/No.344ReverseString/No.344ReverseString.js)
 - [No.412 Fizz Buzz](./tasks/No.412FizzBuzz/No.412FizzBuzz.js)
