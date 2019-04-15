@@ -51,5 +51,5 @@ var reverse1 = function(x) {
     }
     return val
   }
-} 
+}
 ```
