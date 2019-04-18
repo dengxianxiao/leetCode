@@ -8,6 +8,7 @@
 - [No.9 Palindrome Number](./tasks/No.9PalindromeNumber/No.9PalindromeNumber.md)
 - [No.13 Roman to Integer](./tasks/No.13RomanToInteger/No.13RomanToInteger.md)
 - [No.14 Longest Common Prefix](./tasks/No.14LongestCommonPrefix/No.14LongestCommonPrefix.md)
+- [No.20 Valid Parentheses](./tasks/No.20ValidParentheses/No.20ValidParentheses.md)
 - [No.136 String Number](./tasks/No.136StringNumber/No.136StringNumber.js)
 - [No.237 Delete Node in a Linked List](./tasks/No.237DeleteNodeInALinkedList/No.237DeleteNodeInALinkedList.js)
 - [No.292 Nim Game](./tasks/No.292NimGame/No.292NimGame.js)
