@@ -12,6 +12,7 @@
 - [No.21 Merge Two Sorted Lists](./easy/_021/_021.md)
 - [No.26 Remove Duplicates From Sorted Array](./easy/_026/_026.md)
 - [No.27 Remove Element](./easy/_027/_027.md)
+- [No.28 Implement strStr()](./easy/_028/028.md)
 - [No.136 String Number](./easy/_136/_136.js)
 - [No.237 Delete Node in a Linked List](./easy/_237/_237.js)
 - [No.292 Nim Game](./easy/_292/_292.js)
