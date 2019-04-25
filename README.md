@@ -1,5 +1,9 @@
 # LeetCode in JavaScript
 
+LeetCode 算法练习，建立这个仓库很久了，希望能一直坚持更新，保持良好的编程思想，熟悉常用的算法和数据结构
+
+## easy
+
 - [No.1 Two Sum](./easy/_001/_001.md)
 - [No.2 Add Two Numbers](./easy/_002/_002.md)
 - [No.3 Longest Substring Without Repeating Characters](./easy/_003/_003.md)
@@ -13,6 +17,7 @@
 - [No.26 Remove Duplicates From Sorted Array](./easy/_026/_026.md)
 - [No.27 Remove Element](./easy/_027/_027.md)
 - [No.28 Implement strStr()](./easy/_028/028.md)
+- [No.35 Search Insert Position](./easy/_035/035.md)
 - [No.136 String Number](./easy/_136/_136.js)
 - [No.237 Delete Node in a Linked List](./easy/_237/_237.js)
 - [No.292 Nim Game](./easy/_292/_292.js)
