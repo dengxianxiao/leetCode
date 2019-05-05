@@ -21,6 +21,8 @@ LeetCode 算法练习，建立这个仓库很久了，希望能一直坚持更�
 - [No.38 Count and Say](./easy/_038/038.md)
 - [No.53 Maximum Subarray](./easy/_053/053.md)
 - [No.58 Length of Last Word](./easy/_058/_058.md)
+- [No.66 Plus One](./_066/_066.md)
+- [No.67 Add Binary](./_067/_067.md)
 - [No.136 String Number](./easy/_136/_136.js)
 - [No.237 Delete Node in a Linked List](./easy/_237/_237.js)
 - [No.292 Nim Game](./easy/_292/_292.js)
