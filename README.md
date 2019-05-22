@@ -29,6 +29,7 @@ LeetCode 算法练习，建立这个仓库很久了，希望能一直坚持更�
 - [No.88 Merge Sorted Array](./easy/_088/_088.md)
 - [No.100 Same Tree](./easy/_100/_100.js)
 - [No.101 Symmetric Tree](./easy/_101/_101.md)
+- [No.104 二叉树的最大深度](./easy/_104/_104.md)
 - [No.136 String Number](./easy/_136/_136.js)
 - [No.237 Delete Node in a Linked List](./easy/_237/_237.js)
 - [No.292 Nim Game](./easy/_292/_292.js)
