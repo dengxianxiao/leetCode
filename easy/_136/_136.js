@@ -14,11 +14,13 @@
 输入: [4,1,2,1,2]
 输出: 4
 
+  使用二进制异或表达式 x ^ y
+
  * @param {number[]} nums
  * @return {number}
  */
 var singleNumber = function(nums) {
-    var result = 0;
-    nums.forEach(val => result ^= val); // x ^= y,  二进制按位异或取值
-    return result;
+    let result = 0
+    nums.forEach(val => result ^= val) // x ^= y = x ^ y,  二进制按位异或取值
+    return result
 };
