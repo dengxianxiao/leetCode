@@ -42,6 +42,7 @@ LeetCode 算法练习，建立这个仓库很久了，希望能一直坚持更�
 - [NO.125 验证回文串](./easy/_125/_125.js)
 - [No.136 String Number](./easy/_136/_136.js)
 - [No.141 环形链表](./easy/_141/_141.js)
+- [No.155 最小栈](./easy/_155/_155.js)
 - [No.237 Delete Node in a Linked List](./easy/_237/_237.js)
 - [No.292 Nim Game](./easy/_292/_292.js)
 - [No.344 Reverse String](./easy/_344/_344.js)
