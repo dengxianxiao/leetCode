@@ -2,6 +2,10 @@
 
 LeetCode 算法练习
 
+## 时间复杂度
+
+![时间复杂度](./img/时间复杂度.jpg)
+
 ## easy
 
 - [No.1 Two Sum](./easy/_001/_001.md)
