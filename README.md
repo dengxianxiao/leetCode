@@ -80,6 +80,7 @@ LeetCode 算法练习
 - [No.237 Delete Node in a Linked List](./easy/_237/_237.js)
 - [No.242 有效的字母异位词](./easy1/_242/_242.js)
 - [No.257 二叉树的所有路径](./easy1/_257/_257.js)
+- [No.258 添加数字](./easy1/_258/_258.js)
 - [No.292 Nim Game](./easy/_292/_292.js)
 - [No.344 Reverse String](./easy/_344/_344.js)
 - [No.412 Fizz Buzz](./easy/_412/_412.js)
