@@ -83,6 +83,7 @@ LeetCode 算法练习
 - [No.258 添加数字](./easy1/_258/_258.js)
 - [No.263 丑数](./easy1/_263/_263.js)
 - [No.268 丢失的数字](./easy1/_268/_268.js)
+- [No.278 第一个错误的版本](./easy1/_278/_278.js)
 - [No.292 Nim Game](./easy/_292/_292.js)
 - [No.344 Reverse String](./easy/_344/_344.js)
 - [No.412 Fizz Buzz](./easy/_412/_412.js)
