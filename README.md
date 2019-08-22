@@ -87,6 +87,7 @@ LeetCode 算法练习
 - [No.283 移动零](./easy1/_283/_283.js)
 - [No.290 单词规律](./easy1/_290/_290.js)
 - [No.292 Nim Game](./easy/_292/_292.js)
+- [No.303 区域和检索 - 数组不可变](./easy1/_303/_303.js)
 - [No.344 Reverse String](./easy/_344/_344.js)
 - [No.412 Fizz Buzz](./easy/_412/_412.js)
 - [No.448 Find All Numbers Disappeared in an Array](./easy/_448/_448.js)
