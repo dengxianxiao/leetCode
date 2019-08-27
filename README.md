@@ -90,6 +90,7 @@ LeetCode 算法练习
 - [No.303 区域和检索 - 数组不可变](./easy1/_303/_303.js)
 - [No.326 3的幂](./easy1/_326/_326.js)
 - [No.342 4的幂](./easy1/_342/_342.js)
+- [No.345 反转字符串中的元音字母](./easy1/_345/_345.js)
 - [No.344 Reverse String](./easy/_344/_344.js)
 - [No.412 Fizz Buzz](./easy/_412/_412.js)
 - [No.448 Find All Numbers Disappeared in an Array](./easy/_448/_448.js)
