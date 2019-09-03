@@ -96,6 +96,7 @@ LeetCode 算法练习
 - [No.350 两个数组的交集 II](./easy1/_350/_350.js)
 - [No.367 有效的完全平方数](./easy1/_367/_367.js)
 - [No.371 两整数之和](./easy1/_371/_371.js)
+- [No.374 猜数字大小](./easy1/_374/_374.java)
 - [No.412 Fizz Buzz](./easy/_412/_412.js)
 - [No.448 Find All Numbers Disappeared in an Array](./easy/_448/_448.js)
 - [No.461 Hamming Distance](./easy/_461/_461.js)
