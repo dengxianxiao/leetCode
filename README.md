@@ -99,6 +99,7 @@ LeetCode 算法练习
 - [No.374 猜数字大小](./easy1/_374/_374.java)
 - [No.383 赎金信](./easy1/_383/_383.js)
 - [No.387 字符串中的第一个唯一字符 赎金信](./easy1/_387/_387.js)
+- [No.389 找不同](./easy1/_389/_389.js)
 - [No.412 Fizz Buzz](./easy/_412/_412.js)
 - [No.448 Find All Numbers Disappeared in an Array](./easy/_448/_448.js)
 - [No.461 Hamming Distance](./easy/_461/_461.js)
