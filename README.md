@@ -102,6 +102,7 @@ LeetCode 算法练习
 - [No.389 找不同](./easy1/_389/_389.js)
 - [No.392 判断子序列](./easy1/_392/_392.js)
 - [No.401 二进制手表](./easy1/_401/_401.js)
+- [No.404 左叶子之和](./easy1/_404/_404.js)
 - [No.412 Fizz Buzz](./easy/_412/_412.js)
 - [No.448 Find All Numbers Disappeared in an Array](./easy/_448/_448.js)
 - [No.461 Hamming Distance](./easy/_461/_461.js)
