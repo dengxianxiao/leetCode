@@ -108,6 +108,7 @@ LeetCode 算法练习
 - [No.412 Fizz Buzz](./easy/_412/_412.js)
 - [No.414 第三大的数](./easy/_414/_414.js)
 - [No.415 字符串相加](./easy/_415/_415.js)
+- [No.434 字符串中的单词数](./easy/_434/_434.js)
 - [No.448 Find All Numbers Disappeared in an Array](./easy/_448/_448.js)
 - [No.461 Hamming Distance](./easy/_461/_461.js)
 - [No.463 Island Perimeter](./easy/_463/_463.js)
