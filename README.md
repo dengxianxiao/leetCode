@@ -114,6 +114,7 @@ LeetCode 算法练习
 - [No.443 压缩字符串](./easy1/_443/_443.js)
 - [No.447 回旋镖的数量](./easy1/_447/_447.js)
 - [No.448 找到所有数组中消失的数字](./easy1/_448/_448.js)
+- [No.453 最小移动次数使数组元素相等](./easy1/_453/_453.js)
 - [No.448 Find All Numbers Disappeared in an Array](./easy/_448/_448.js)
 - [No.461 Hamming Distance](./easy/_461/_461.js)
 - [No.463 Island Perimeter](./easy/_463/_463.js)
