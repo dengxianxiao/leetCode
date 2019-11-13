@@ -117,7 +117,7 @@ LeetCode 算法练习
 - [No.453 最小移动次数使数组元素相等](./easy1/_453/_453.js)
 - [No.459 重复的子字符串](./easy1/_459/_459.js)
 - [No.448 Find All Numbers Disappeared in an Array](./easy/_448/_448.js)
-- [No.461 Hamming Distance](./easy/_461/_461.js)
+- [No.461 汉明距离](./easy1/_461/_461.js)
 - [No.463 Island Perimeter](./easy/_463/_463.js)
 - [No.476 Number Complement](./easy/_476/_476.js)
 - [No.485 Max Consecutive Ones](./easy/_485/_485.js)
