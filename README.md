@@ -118,7 +118,7 @@ LeetCode 算法练习
 - [No.459 重复的子字符串](./easy1/_459/_459.js)
 - [No.448 Find All Numbers Disappeared in an Array](./easy/_448/_448.js)
 - [No.461 汉明距离](./easy1/_461/_461.js)
-- [No.463 Island Perimeter](./easy/_463/_463.js)
+- [No.463 岛屿的周长](./easy1/_463/_463.js)
 - [No.476 Number Complement](./easy/_476/_476.js)
 - [No.485 Max Consecutive Ones](./easy/_485/_485.js)
 - [No.496 Next Greater Number I](./easy/_496/_496.js)
