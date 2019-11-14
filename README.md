@@ -120,7 +120,7 @@ LeetCode 算法练习
 - [No.461 汉明距离](./easy1/_461/_461.js)
 - [No.463 岛屿的周长](./easy1/_463/_463.js)
 - [No.475 供暖器](./easy1/_475/_475.js)
-- [No.476 Number Complement](./easy/_476/_476.js)
+- [No.476 数字的补数](./easy1/_476/_476.js)
 - [No.485 Max Consecutive Ones](./easy/_485/_485.js)
 - [No.496 Next Greater Number I](./easy/_496/_496.js)
 - [No.500 Keybord Row](./easy/_500/_500.js)
