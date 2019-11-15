@@ -124,7 +124,7 @@ LeetCode 算法练习
 - [No.482 密钥格式化](./easy1/_482/_482.js)
 - [No.485 最大连续1的个数](./easy1/_485/_485.js)
 - [No.492 构造矩形](./easy1/_492/_492.js)
-- [No.496 Next Greater Number I](./easy/_496/_496.js)
+- [No.496 下一个更大元素 I](./easy1/_496/_496.js)
 - [No.500 Keybord Row](./easy/_500/_500.js)
 - [No.520 Detect Capital](./easy/_520/_520.js)
 - [No.557 Reverse Words in a String](./easy/_557/_557.js)
