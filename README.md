@@ -130,6 +130,7 @@ LeetCode 算法练习
 - [No.504 七进制数](./easy1/_504/_504.js)
 - [No.506 相对名次](./easy1/_506/_506.js)
 - [No.507 完美数](./easy1/_507/_507.js)
+- [No.509 斐波那契数](./easy1/_509/_509.js)
 - [No.520 Detect Capital](./easy/_520/_520.js)
 - [No.557 Reverse Words in a String](./easy/_557/_557.js)
 - [No.617 Merge Two Binary Trees](./easy/_617/_617.js)
