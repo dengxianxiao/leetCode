@@ -137,6 +137,7 @@ LeetCode 算法练习
 - [No.532 数组中的K-diff数对](./easy1/_532/_532.js)
 - [No.538 把二叉搜索树转换为累加树](./easy1/_538/_538.js)
 - [No.541 反转字符串 II](./easy1/_541/_541.js)
+- [No.543 二叉树的直径](./easy1/_543/_543.js)
 - [No.557 Reverse Words in a String](./easy/_557/_557.js)
 - [No.617 Merge Two Binary Trees](./easy/_617/_617.js)
 - [No.657 Judge Route Circle](./easy/_657/_657.js)
