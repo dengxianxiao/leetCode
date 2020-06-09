@@ -140,6 +140,7 @@ LeetCode 算法练习
 - [No.543 二叉树的直径](./easy1/_543/_543.js)
 - [No.551 学生出勤记录 I](./easy1/_551/_551.js)
 - [No.557 Reverse Words in a String](./easy/_557/_557.js)
+- [No.559 N叉树的最大深度](./easy1/_559/_559.js)
 - [No.617 Merge Two Binary Trees](./easy/_617/_617.js)
 - [No.657 Judge Route Circle](./easy/_657/_657.js)
 - [No.709 To Lower Case](./easy/_709/_709.js)
