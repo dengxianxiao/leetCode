@@ -6,7 +6,7 @@ LeetCode 算法练习
 
 ![时间复杂度](./img/时间复杂度.jpg)
 
-## easy
+## 题解
 
 - [No.1 Two Sum](./easy/_001/_001.md)
 - [No.2 Add Two Numbers](./easy/_002/_002.md)
