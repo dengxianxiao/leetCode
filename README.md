@@ -19,6 +19,7 @@ LeetCode 算法练习
 - [No.14 Longest Common Prefix](./easy/_014/_014.md)
 - [No.14 三数之和](./easy/_015/_015.js)
 - [No.16 最接近的三数之和](./easy/_016/_016.js)
+- [No.18 四数之和](./easy/_018/_018.js)
 - [No.20 Valid Parentheses](./easy/_020/_020.md)
 - [No.21 Merge Two Sorted Lists](./easy/_021/_021.md)
 - [No.26 Remove Duplicates From Sorted Array](./easy/_026/_026.md)
