@@ -27,6 +27,7 @@ LeetCode 算法练习
 - [No.28 Implement strStr()](./easy/_028/_028.md)
 - [No.31 下一个排列](./easy/_031/031.js)
 - [No.33 搜索旋转排序数组](./easy/_033/033.js)
+- [No.34 在排序数组中查找元素的第一个和最后一个位置](./easy/_034/034.js)
 - [No.35 Search Insert Position](./easy/_035/_035.md)
 - [No.38 Count and Say](./easy/_038/_038.md)
 - [No.53 Maximum Subarray](./easy/_053/053.md)
