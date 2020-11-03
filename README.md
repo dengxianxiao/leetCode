@@ -32,6 +32,7 @@ LeetCode 算法练习
 - [No.38 Count and Say](./easy/_038/_038.md)
 - [No.39 组合总和](./easy/_039/_039.js)
 - [No.40 组合总和 II](./easy/_040/_040.js)
+- [No.41 缺失的第一个正数](./easy/_041/_041.js)
 - [No.53 Maximum Subarray](./easy/_053/053.md)
 - [No.58 Length of Last Word](./easy/_058/_058.md)
 - [No.66 Plus One](./easy/_066/_066.md)
