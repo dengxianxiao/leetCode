@@ -39,6 +39,7 @@ LeetCode 算法练习
 - [No.53 Maximum Subarray](./easy/_053/053.md)
 - [No.54 螺旋矩阵](./easy/_054/054.js)
 - [No.55 跳跃游戏](./easy/_055/055.js)
+- [No.56 合并区间](./easy/_056/056.js)
 - [No.58 Length of Last Word](./easy/_058/_058.md)
 - [No.66 Plus One](./easy/_066/_066.md)
 - [No.67 Add Binary](./easy/_067/_067.md)
