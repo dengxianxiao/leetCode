@@ -44,6 +44,8 @@ LeetCode 算法练习
 - [No.58 Length of Last Word](./easy/_058/_058.md)
 - [No.59 螺旋矩阵 II](./easy/_059/_059.js)
 - [No.62 不同路径](./easy/_062/_062.js)
+- [No.63 不同路径 II](./easy/_063/_063.js)
+- [No.64 最小路径和](./easy/_064/_064.js)
 - [No.66 Plus One](./easy/_066/_066.md)
 - [No.67 Add Binary](./easy/_067/_067.md)
 - [No.69 sqrt(x)](./easy/_067/_067.md)
