@@ -43,6 +43,7 @@ LeetCode 算法练习
 - [No.57 插入区间](./easy/_057/057.js)
 - [No.58 Length of Last Word](./easy/_058/_058.md)
 - [No.59 螺旋矩阵 II](./easy/_059/_059.js)
+- [No.62 不同路径](./easy/_062/_062.js)
 - [No.66 Plus One](./easy/_066/_066.md)
 - [No.67 Add Binary](./easy/_067/_067.md)
 - [No.69 sqrt(x)](./easy/_067/_067.md)
