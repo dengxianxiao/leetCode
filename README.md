@@ -51,6 +51,7 @@ LeetCode 算法练习
 - [No.69 sqrt(x)](./easy/_067/_067.md)
 - [No.70 Climbing Stairs](./easy/_070/_070.md)
 - [No.73 矩阵置零](./easy/_073/_073.js)
+- [No.74 搜索二维矩阵](./easy/_074/_074.js)
 - [No.83 Remove Duplicates from Sorted List](./easy/_083/_083.js)
 - [No.88 Merge Sorted Array](./easy/_088/_088.md)
 - [No.100 Same Tree](./easy/_100/_100.js)
