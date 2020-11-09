@@ -55,6 +55,7 @@ LeetCode 算法练习
 - [No.75 颜色分类](./easy/_075/_075.js)
 - [No.78 子集](./easy/_078/_078.js)
 - [No.79 单词搜索](./easy/_079/_079.js)
+- [No.80 删除排序数组中的重复项 II](./easy/_080/_080.js)
 - [No.83 Remove Duplicates from Sorted List](./easy/_083/_083.js)
 - [No.88 Merge Sorted Array](./easy/_088/_088.md)
 - [No.100 Same Tree](./easy/_100/_100.js)
