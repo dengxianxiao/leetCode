@@ -201,6 +201,7 @@ LeetCode 算法练习
 - [No.611 有效三角形的个数](./easy1/_611/_611.js)
 - [No.617 Merge Two Binary Trees](./easy/_617/_617.js)
 - [No.621 任务调度器](./easy1/_621/_621.js)
+- [No.628 三个数的最大乘积](./easy1/_628/_628.js)
 - [No.657 Judge Route Circle](./easy/_657/_657.js)
 - [No.709 To Lower Case](./easy/_709/_709.js)
 - [No.771 Jewels and Stones](./easy/_771/_771.md)
