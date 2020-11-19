@@ -12,6 +12,7 @@ LeetCode 算法练习
 - [No.2 Add Two Numbers](./easy/_002/_002.md)
 - [No.3 Longest Substring Without Repeating Characters](./easy/_003/_003.md)
 - [No.4 Median of Two Sorted Arrays](./easy/_004/_004.md)
+- [No.5 最长回文子串](./easy1/_005/_005.js)
 - [No.7 Reverse Integer](./easy/_007/_007.md)
 - [No.9 Palindrome Number](./easy/_009/_009.md)
 - [No.11 盛最多水的容器](./easy/_011/_011.js)
